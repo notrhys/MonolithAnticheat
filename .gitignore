@@ -1,0 +1,14 @@
+
+*.xml
+*.iml
+.idea
+
+'.idea' 
+*.iml
+!pom.xml*
+*.class
+*.class
+*.jar
+*.lst
+
+target/

@@ -1,0 +1,5 @@
+name: Monolith
+main: me.rhys.anticheat.Plugin
+version: 0.1
+description: Advanced packet based anticheat
+depend: [Atlas]
